@@ -1,4 +1,4 @@
-# React + Tailwind CSS Starter Template.
+# React project  Template.
 
 ## Optimized for Vercel deployment
 
@@ -25,6 +25,7 @@ Please delete the `.git` folder to delete all git configuration.
 Run Application
 
 ```
+npm i
 npm start
 ```
 
