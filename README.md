@@ -29,4 +29,9 @@ npm i
 npm start
 ```
 
+### deploy
+```
+https://react-project-template-gze8.vercel.app/
+```
+
 
