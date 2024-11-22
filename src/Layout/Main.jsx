@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Outlet } from "react-router-dom";
 import Navbar from "../components/shared/Navbar";
 import Footer from "../components/shared/Footer";
-import Loader from "../components/loader/Loader";
+import Loader from "../components/Loader/Loader";
 
 const Main = () => {
   const [loading, setLoading] = useState(true);
@@ -11,7 +11,7 @@ const Main = () => {
     // Simulate an API call or other loading processes
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 3000); // Adjust the timeout as needed
+    }, 2000); // Adjust the timeout as needed
 
     return () => clearTimeout(timer);
   }, []);

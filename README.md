@@ -13,7 +13,7 @@ Table of Contents:
 ### Setup Template
 
 ```
-git clone https://github.com/rol2022/reactive-starter.git
+git clone https://github.com/rakibul12212/react-project-template.git
 ```
 
 ### After Setup
