@@ -1,4 +1,4 @@
-# React + Tailwind CSS Starter Template.
+# React project  Template.
 
 ## Optimized for Vercel deployment
 
@@ -13,7 +13,7 @@ Table of Contents:
 ### Setup Template
 
 ```
-git clone https://github.com/rol2022/reactive-starter.git
+git clone https://github.com/rakibul12212/react-project-template.git
 ```
 
 ### After Setup
@@ -25,6 +25,7 @@ Please delete the `.git` folder to delete all git configuration.
 Run Application
 
 ```
+npm i
 npm start
 ```
 
